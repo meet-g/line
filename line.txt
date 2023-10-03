@@ -1,0 +1,2 @@
+bad data could skew line of best fit
+code could have errors when drawing the line of best fit
